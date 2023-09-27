@@ -1,2 +1,2 @@
 # Binary Search Tree
-![](.result.png)
+![](./result.png)
